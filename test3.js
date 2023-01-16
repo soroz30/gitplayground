@@ -1,2 +1,2 @@
 const c = 4;
-const d = 3;
+const d = 0;
